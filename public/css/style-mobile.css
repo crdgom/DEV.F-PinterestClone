@@ -273,7 +273,7 @@ h2{
 }
 
 .y2l div:nth-child(1){
-    background-image: url(https://picsum.photos/id/1015/500);
+    background-image: url("https://picsum.photos/id/1015/500.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -465,7 +465,7 @@ input[type='find']{
 .blue-img-place{
     width: 201px;
     height: 211px;
-    background-image: url(https://picsum.photos/id/163/500);
+    background-image: url("https://picsum.photos/id/163/500.webp");
     font-weight: bold;
     background-size: cover;
     background-repeat: no-repeat;
@@ -482,7 +482,7 @@ input[type='find']{
 
 .img1{
     display: flex;
-    background-image: url(https://picsum.photos/id/248/500);
+    background-image: url("https://picsum.photos/id/248/500.webp");
     width: 45px;
     height: 65px;
     background-size: cover;
@@ -495,7 +495,7 @@ input[type='find']{
 }
 
 .img2{
-    background-image: url(https://picsum.photos/id/306/500);
+    background-image: url("https://picsum.photos/id/306/500.webp");
     width: 45px;
     height: 65px;
     background-size: cover;
@@ -508,7 +508,7 @@ input[type='find']{
 }
 
 .img3{
-    background-image: url(https://picsum.photos/id/367/500);
+    background-image: url("https://picsum.photos/id/367/500.webp");
     width: 45px;
     height: 65px;
     background-size: cover;
@@ -536,7 +536,7 @@ input[type='find']{
     color: #fff;}
 
 .blue-card1{
-    background-image: url("https://picsum.photos/id/1026/500");
+    background-image: url("https://picsum.photos/id/1026/500.webp");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -560,7 +560,7 @@ input[type='find']{
 }
 
 .blue-card2{
-    background-image: url("https://picsum.photos/id/106/500");
+    background-image: url("https://picsum.photos/id/106/500.webp");
     background-position: center;
     background-size: cover;
     width: 85px;
@@ -582,7 +582,7 @@ input[type='find']{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 .blue-card3{
-    background-image: url("https://picsum.photos/id/1040/500");
+    background-image: url("https://picsum.photos/id/1040/500.webp");
     background-position: center;
     background-size: cover;
     width: 105px;
@@ -605,7 +605,7 @@ input[type='find']{
 }
 
 .blue-card4{
-    background-image: url("https://picsum.photos/id/1080/500");
+    background-image: url("https://picsum.photos/id/1080/500.webp");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -662,7 +662,7 @@ input[type='find']{
 }
 
 .pink-l{
-    background-image: url("https://picsum.photos/id/237/500");
+    background-image: url("https://picsum.photos/id/237/500.webp");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -676,7 +676,7 @@ input[type='find']{
 }
 
 .pink-img1{
-    background-image: url("https://picsum.photos/id/238/500");
+    background-image: url("https://picsum.photos/id/238/500.webp");
     background-position: center;
     background-size: cover;
     width: 100px;
@@ -689,7 +689,7 @@ input[type='find']{
 }
 
 .pink-img2{
-    background-image: url("https://picsum.photos/id/1005/500");
+    background-image: url("https://picsum.photos/id/1005/500.webp");
     background-position: center;
     background-size: cover;
     width: 40px;

@@ -384,7 +384,7 @@ button, a{
     }
 
     .y2l div:nth-child(1){
-        background-image: url(https://picsum.photos/id/1015/500);
+        background-image: url(https://picsum.photos/id/1015/500.webp);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -568,7 +568,7 @@ button, a{
     .blue-img-place{
         width: 400px;
         height: 420px;
-        background-image: url(https://picsum.photos/id/163/500);
+        background-image: url("https://picsum.photos/id/163/500.webp");
         font-weight: bold;
         background-size: cover;
         background-repeat: no-repeat;
@@ -585,7 +585,7 @@ button, a{
 
     .img1{
         display: flex;
-        background-image: url(https://picsum.photos/id/248/500);
+        background-image: url("https://picsum.photos/id/248/500.webp");
         width: 90px;
         height: 130px;
         background-size: cover;
@@ -598,7 +598,7 @@ button, a{
     }
 
     .img2{
-        background-image: url(https://picsum.photos/id/306/500);
+        background-image: url("https://picsum.photos/id/306/500.webp");
         width: 90px;
         height: 130px;
         background-size: cover;
@@ -611,7 +611,7 @@ button, a{
     }
 
     .img3{
-        background-image: url(https://picsum.photos/id/367/500);
+        background-image: url("https://picsum.photos/id/367/500.webp");
         width: 90px;
         height: 130px;
         background-size: cover;
@@ -639,7 +639,7 @@ button, a{
         color: #fff;}
 
     .blue-card1{
-        background-image: url("https://picsum.photos/id/1026/500");
+        background-image: url("https://picsum.photos/id/1026/500.webp");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -664,7 +664,7 @@ button, a{
     }
 
     .blue-card2{
-        background-image: url("https://picsum.photos/id/106/500");
+        background-image: url("https://picsum.photos/id/106/500.webp");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -687,7 +687,7 @@ button, a{
         font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
     }
     .blue-card3{
-        background-image: url("https://picsum.photos/id/1040/500");
+        background-image: url("https://picsum.photos/id/1040/500.webp");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -711,7 +711,7 @@ button, a{
     }
 
     .blue-card4{
-        background-image: url("https://picsum.photos/id/1080/500");
+        background-image: url("https://picsum.photos/id/1080/500.webp");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -768,7 +768,7 @@ button, a{
     }
 
     .pink-l{
-        background-image: url("https://picsum.photos/id/237/500");
+        background-image: url("https://picsum.photos/id/237/500.webp");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -782,7 +782,7 @@ button, a{
     }
 
     .pink-img1{
-        background-image: url("https://picsum.photos/id/238/500");
+        background-image: url("https://picsum.photos/id/238/500.webp");
         background-position: center;
         background-size: cover;
         width: 210px;
@@ -795,7 +795,7 @@ button, a{
     }
 
     .pink-img2{
-        background-image: url("https://picsum.photos/id/1005/500");
+        background-image: url("https://picsum.photos/id/1005/500.webp");
         background-position: center;
         background-size: cover;
         width: 96px;
