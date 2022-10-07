@@ -1,6 +1,8 @@
 
 # Pinterest Clone
 
+Production site: https://pinterest-clone-83bf5.web.app/
+
 Final project of the Kata Intro to the web module that consists of cloning the home page of Pinterest.
 
 Technologies: HTML5 and CSS3 Deployment in Firebase and change control in Git.
